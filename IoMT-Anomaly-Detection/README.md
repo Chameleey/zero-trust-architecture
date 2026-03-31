@@ -54,7 +54,7 @@ Cybersecurity Research · AI in Security · Intrusion Detection Systems (IDS) ·
 ---
 
 ## 📄 Project Report
-👉 [View Full Report](paper.pdf)
+👉 [View Full Report](https://github.com/YOUR-USERNAME/YOUR-REPO/blob/main/IoMT-Anomaly-Detection/yourfile.pdf)
 
 ---
 
