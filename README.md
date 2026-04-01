@@ -29,6 +29,11 @@ Examines the Zero Trust model based on the principle **“Never Trust, Always Ve
 📄 Includes: Academic research report  
 
 ---
+### 🐧 Linux Security Protection & Inspection
+Analyzes security mechanisms in Linux systems, including user management, Virtual File Systems (VFS), security inspection tools, and SIEM-based monitoring for protecting confidential data.
+
+📂 Folder: `Linux-Security-Protection`  
+📄 Includes: Academic research report (Linux security principles, tools, and practices)
 
 ## 🛠️ Skills Demonstrated
 - Cybersecurity Research & Analysis  
