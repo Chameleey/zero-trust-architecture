@@ -35,6 +35,8 @@ Analyzes security mechanisms in Linux systems, including user management, Virtua
 📂 Folder: `Linux-Security-Protection`  
 📄 Includes: Academic research report (Linux security principles, tools, and practices)
 
+---
+
 ## 🛠️ Skills Demonstrated
 - Cybersecurity Research & Analysis  
 - Threat Modeling & Risk Assessment  
