@@ -42,6 +42,8 @@ Analyzes security mechanisms in Linux systems, including user management, Virtua
 - Threat Modeling & Risk Assessment  
 - AI in Security  
 - Zero Trust Architecture  
+- Linux Security & System Hardening  
+- Security Monitoring & SIEM Concepts  
 - Technical & Academic Writing  
 
 ---
@@ -50,7 +52,8 @@ Analyzes security mechanisms in Linux systems, including user management, Virtua
 This repository demonstrates my ability to:
 - Conduct structured cybersecurity research  
 - Analyze modern threats and defense mechanisms  
-- Present technical findings clearly and professionally  
+- Apply security principles across AI, network, and OS-level systems  
+- Present technical findings clearly and professionally    
 
 ---
 
